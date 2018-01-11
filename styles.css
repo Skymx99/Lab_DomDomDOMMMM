@@ -1,0 +1,23 @@
+.button {
+    display: block;
+}
+
+div {
+    background-color: black;
+    margin: 1px;
+    float: left;
+    color: white;
+    padding: 5em;
+
+}
+
+p {
+    color: white;
+    font-size: 3em;
+    display: block;
+    text-align: center;
+    width: 1em;
+    height: 1em;
+    margin: 0;
+    
+}
